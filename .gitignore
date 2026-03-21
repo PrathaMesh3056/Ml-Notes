@@ -5,3 +5,4 @@ __pycache__/
 agent.log
 *.log
 .env
+**/roadmap_tracker.xlsx
